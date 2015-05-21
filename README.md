@@ -6,4 +6,5 @@ Sie können die Tests mit dem Kommando ```./gradlew test``` bzw. ```./gradlew.ba
 
 Ihr Programm können Sie mit  ```./gradlew run -Dmain=info1.<Klassenname>``` starten.
 
-Wenn die Lösungsdatei also den Namen FooBar.java hat, ist der korrekte Aufruf: ```./gradlew run -Dmain=info1.FooBar```
+Wenn die Lösungsdatei also den Namen FooBar.java hat, ist der korrekte Aufruf: 
+```./gradlew run -Dmain=info1.FooBar```
