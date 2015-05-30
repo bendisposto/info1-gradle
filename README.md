@@ -14,7 +14,7 @@ Wenn Sie die Tests laufen lassen und diese fehlschlagen wird eine HTML Datei mit
 ## Schneller machen
 Beim ersten Start mit gradlew kann es etwas länger dauern, da einige Dateien heruntergeladen werden. Wir haben gradlew hinzugefügt, damit das script auf jedem Rechner einfach ausführbar ist.  
  
-Wir empfehlen allerdings, das Build-Werkzeug gradle (http://gradle.org/) auf Ihrem Computer zu installieren. Auf Linux und Mac OS Systemen funktioniert die Installation normalerweise problemlos über den regulären Paketmanager bzw.  auf MAc OS über homebrew (http://brew.sh/). Ansonsten verweisen wir auf die Installationsanleitung (http://docs.gradle.org/current/userguide/installation.html).
+Wir empfehlen allerdings, das Build-Werkzeug gradle (http://gradle.org/) auf Ihrem Computer zu installieren. Auf Linux und Mac OS Systemen funktioniert die Installation normalerweise problemlos über den regulären Paketmanager bzw.  auf Mac OS über homebrew (http://brew.sh/). Ansonsten verweisen wir auf die Installationsanleitung (http://docs.gradle.org/current/userguide/installation.html).
 
 Gradle ist leider von Hause aus etwas langsam, Sie können es aber sigifikant durch Verwendung des Daemon features beschleunigen. Genaue Instruktionen finden Sie unter: https://docs.gradle.org/2.4/userguide/gradle_daemon.html
 
