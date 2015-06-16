@@ -12,6 +12,9 @@ Wenn die Lösungsdatei also den Namen FooBar.java hat, ist der korrekte Aufruf:
 Wenn Sie die Tests laufen lassen und diese fehlschlagen wird eine HTML Datei mit einem Report generiert. Der Ordner in dem die Reportdatei liegt wird auf der Konsole ausgegeben.
 
 ## Schneller machen
+
+Wenn Sie die von der Fachschaft Informatik herausgegebene virtuelle Maschine nutzen, können Sie den folgenden Teil ignorieren. 
+
 Beim ersten Start mit gradlew kann es etwas länger dauern, da einige Dateien heruntergeladen werden. Wir haben gradlew hinzugefügt, damit das script auf jedem Rechner einfach ausführbar ist.  
  
 Wir empfehlen allerdings, das Build-Werkzeug gradle (http://gradle.org/) auf Ihrem Computer zu installieren. Auf Linux und Mac OS Systemen funktioniert die Installation normalerweise problemlos über den regulären Paketmanager bzw.  auf Mac OS über homebrew (http://brew.sh/). Ansonsten verweisen wir auf die Installationsanleitung (http://docs.gradle.org/current/userguide/installation.html).
