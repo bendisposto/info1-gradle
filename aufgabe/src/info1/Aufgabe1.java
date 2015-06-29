@@ -4,7 +4,7 @@ public class Aufgabe1 {
 
   public static String hello() {
    // Ändern Sie den Inhalt dieser Methode.
-   return null;
+   return "Huhu";
   }
 
   public static void main(String[] args) {

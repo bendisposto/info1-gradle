@@ -1,7 +1,7 @@
 package info1;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import static Aufgabe1.hello;
+import static info1.Aufgabe1.hello;
 
 public class Aufgabe1Test {
 
