@@ -18,3 +18,16 @@ task run(type:JavaExec, dependsOn:compileJava) {
    main = System.getProperty("main")
    classpath = sourceSets.main.runtimeClasspath
 }
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+    }
+    test {
+        java {
+            srcDir 'test'
+        }
+    }
+}
