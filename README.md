@@ -2,7 +2,7 @@
 Dieses Skript soll Ihnen den Umgang mit den Info1 Aufgaben erleichtern. Es enthält ein Lösungsskelett für die Programmieraufgabe und verschiedene Testfälle, die Ihnen die Überprüfung Ihrer Lösung erleichtern sollen.
 
 # Virtuelle Maschine der Fachschaft
-Wir empfehlen die Verwendung der virtuellen Maschine, die Ihnen von der Fachschaft zur Verfügung gestellt wird. Dort ist das benutzte Werkzeug bereits installiert und konfiguriert. Wenn Sie die Vm verweden können Sie im folgenden statt ```./gradlew``` einfach ```gradle``` verwenden.
+Wir empfehlen die Verwendung der virtuellen Maschine, die Ihnen von der Fachschaft zur Verfügung gestellt wird. Dort ist das benutzte Werkzeug bereits installiert und konfiguriert. Wenn Sie die VM verwenden, können Sie im Folgenden  ```./gradlew``` durch ```gradle``` ersetzen. 
 
 # Verzeichnis-Layout
 
@@ -20,7 +20,7 @@ Die Ergebnisse der Tests werden  auf der Kommandozeile ausgegeben. Zusätzlich w
 
 ## Gradle installieren
 
-Wenn Sie die Fachschafts-VM nutzen können Sie den folgenden Teil ignorieren!
+<b> Wenn Sie die Fachschafts-VM nutzen können Sie den folgenden Teil ignorieren! </b>
 
 Beim ersten Start mit gradlew kann es etwas länger dauern, da einige Dateien heruntergeladen werden. Wir haben gradlew hinzugefügt, damit das script auf jedem Rechner einfach ausführbar ist.  
 
