@@ -20,7 +20,7 @@ Die Ergebnisse der Tests werden  auf der Kommandozeile ausgegeben. Zusätzlich w
 
 ## Gradle installieren
 
-Wenn Sie die Fachschafts-VM nutzen können Sie den folgenden Teil ignorieren!
+<b> Wenn Sie die Fachschafts-VM nutzen können Sie den folgenden Teil ignorieren! </b>
 
 Beim ersten Start mit gradlew kann es etwas länger dauern, da einige Dateien heruntergeladen werden. Wir haben gradlew hinzugefügt, damit das script auf jedem Rechner einfach ausführbar ist.  
 
