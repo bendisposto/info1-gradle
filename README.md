@@ -1,6 +1,12 @@
-# Info 1: Test und Ausführungsscript
+# Grundlagen der praktischen Informatik - Test und Ausführungsscript
+Dieses Skript soll Ihnen den Umgang mit den Info1 Aufgaben erleichtern. Es enthält ein Lösungsskelett für die Programmieraufgabe und verschiedene Testfälle, die Ihnen die Überprüfung Ihrer Lösung erleichtern sollen.
 
-Dieses Skript soll Ihnen den Umgang mit den Info1 Aufgaben erleichtern. Wir werden Ihnen für die Abgaben in der Anfangszeit in der Regel eine Javaklasse mit Tests und eine leere Lösungsklasse  zur Verfügung stellen. Kopieren Sie die Testklasse in den Ordner test/info1 und das Lösungsskelett in den Ordner src/info1
+# Virtuelle Maschine der Fachschaft
+Wir empfehlen die Verwendung der virtuellen Maschine, die Ihnen von der Fachschaft zur Verfügung gestellt wird. Dort ist das benutzte Werkzeug bereits installiert und konfiguriert. Wenn Sie die Vm verweden können Sie im folgenden statt ```./gradlew``` einfach ```gradle``` verwenden.
+
+# Verzeichnis-Layout
+
+Wir werden Ihnen für die Abgaben in der Anfangszeit in der Regel eine Javaklasse mit Tests und eine leere Lösungsklasse  zur Verfügung stellen. Kopieren Sie die Testklasse in den Ordner test/info1 und das Lösungsskelett in den Ordner src/info1
 
 Sie können die Tests mit dem Kommando ```./gradlew test``` bzw. ```./gradlew.bat test``` (Windows) ausführen.
 
@@ -9,11 +15,12 @@ Ihr Programm können Sie mit  ```./gradlew run -Dmain=info1.<Klassenname>``` sta
 Wenn die Lösungsdatei also den Namen FooBar.java hat, ist der korrekte Aufruf:
 ```./gradlew run -Dmain=info1.FooBar```
 
-Wenn Sie die Tests laufen lassen und diese fehlschlagen wird eine HTML Datei mit einem Report generiert. Der Ordner in dem die Reportdatei liegt wird auf der Konsole ausgegeben.
+Die Ergebnisse der Tests werden  auf der Kommandozeile ausgegeben. Zusätzlich wird eine HTML Datei mit einem Report generiert. Der Report wird unter ./build/reports/tests/index.html gespeichert.
 
-## Schneller machen
 
-*Wenn Sie die von der Fachschaft Informatik herausgegebene virtuelle Maschine nutzen, können Sie den folgenden Teil ignorieren.*
+## Gradle installieren
+
+Wenn Sie die Fachschafts-VM nutzen können Sie den folgenden Teil ignorieren!
 
 Beim ersten Start mit gradlew kann es etwas länger dauern, da einige Dateien heruntergeladen werden. Wir haben gradlew hinzugefügt, damit das script auf jedem Rechner einfach ausführbar ist.  
 

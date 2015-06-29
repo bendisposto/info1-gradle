@@ -9,8 +9,12 @@ dependencies {
 }
 
 test {
+  outputs.upToDateWhen { false }
   testLogging {
     exceptionFormat = 'full'
+  }
+  afterTest { desc, result ->
+      println "Executing test ${desc.name} [${desc.className}] with result: ${result.resultType}"
   }
 }
 
