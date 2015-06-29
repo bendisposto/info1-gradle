@@ -6,7 +6,7 @@ Wir empfehlen die Verwendung der virtuellen Maschine, die Ihnen von der Fachscha
 
 # Verzeichnis-Layout
 
-Wir werden Ihnen für die Abgaben in der Anfangszeit in der Regel eine Javaklasse mit Tests und eine leere Lösungsklasse  zur Verfügung stellen. Kopieren Sie die Testklasse in den Ordner test/info1 und das Lösungsskelett in den Ordner src/info1
+Wir werden Ihnen für die Abgaben in der Anfangszeit in der Regel Javaklassen mit Tests (im Ordner ```test/info1```)  und Skelette von Lösungsklassen (im Ordner ```src/info1```) zur Verfügung stellen. Soweit es nicht anders in der Aufgabenstellung beschrieben ist, sollten Sie nur die Lösungsklassen ändern/ergänzen.  
 
 Sie können die Tests mit dem Kommando ```./gradlew test``` bzw. ```./gradlew.bat test``` (Windows) ausführen.
 
