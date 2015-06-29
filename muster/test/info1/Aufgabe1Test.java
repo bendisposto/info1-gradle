@@ -7,7 +7,7 @@ public class Aufgabe1Test {
 
   @Test
 	public void testHelloWorld() throws Exception {
-		assertEquals("Hello, world", hello());
+		assertEquals("Hello, world", hello()); // Same test
 	}
 
 }

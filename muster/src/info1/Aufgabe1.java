@@ -3,8 +3,7 @@ public class Aufgabe1 {
 
 
   public static String hello() {
-   // Ändern Sie den Inhalt dieser Methode.
-   return null;
+   return "Hello, world";
   }
 
   public static void main(String[] args) {
