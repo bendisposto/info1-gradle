@@ -1,7 +1,7 @@
 # tl/dr;
 ```./gradlew test``` (Linux Mac)
 
-```./gradlew.bat test``` (Windows)
+```gradlew.bat test``` (Windows)
 
 # Grundlagen der praktischen Informatik - Test und Ausführungsscript
 Dieses Skript soll Ihnen den Umgang mit den Info1 Aufgaben erleichtern. Es enthält ein Lösungsskelett für die Programmieraufgabe und verschiedene Testfälle, die Ihnen die Überprüfung Ihrer Lösung erleichtern sollen.
@@ -13,7 +13,7 @@ Wir empfehlen die Verwendung der virtuellen Maschine, die Ihnen von der Fachscha
 
 Wir werden Ihnen für die Abgaben in der Anfangszeit in der Regel Javaklassen mit Tests (im Ordner ```test/info1```)  und Skelette von Lösungsklassen (im Ordner ```src/info1```) zur Verfügung stellen. Soweit es nicht anders in der Aufgabenstellung beschrieben ist, sollten Sie nur die Lösungsklassen ändern/ergänzen.  
 
-Sie können die Tests mit dem Kommando ```./gradlew test``` bzw. ```./gradlew.bat test``` (Windows) ausführen.
+Sie können die Tests mit dem Kommando ```./gradlew test``` bzw. ```gradlew.bat test``` (Windows) ausführen.
 
 Ihr Programm können Sie mit  ```./gradlew run -Dmain=info1.<Klassenname>``` starten.
 
