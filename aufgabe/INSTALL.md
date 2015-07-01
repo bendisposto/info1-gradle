@@ -1,3 +1,7 @@
+# tl/dr;
+```./gradlew test``` (Linux Mac)
+```./gradlew.bat test``` (Windows)
+
 # Grundlagen der praktischen Informatik - Test und Ausführungsscript
 Dieses Skript soll Ihnen den Umgang mit den Info1 Aufgaben erleichtern. Es enthält ein Lösungsskelett für die Programmieraufgabe und verschiedene Testfälle, die Ihnen die Überprüfung Ihrer Lösung erleichtern sollen.
 
