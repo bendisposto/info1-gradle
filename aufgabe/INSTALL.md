@@ -1,5 +1,6 @@
 # tl/dr;
 ```./gradlew test``` (Linux Mac)
+
 ```./gradlew.bat test``` (Windows)
 
 # Grundlagen der praktischen Informatik - Test und Ausführungsscript
